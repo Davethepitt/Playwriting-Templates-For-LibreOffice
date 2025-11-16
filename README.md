@@ -33,4 +33,7 @@ Ctrl + Shift + A
 
 ### Credits
 **Dave Pitt**
-Last Updated: 16th November 2025
+- [Mastodon](https://mastodon.social/@davethepitt)
+- [Bluesky](https://bsky.app/profile/davethepitt.bsky.social)
+- [Instagram](https://www.instagram.com/davethepitt/)
+- [Website](https://www.davethepitt.co.uk/)  
