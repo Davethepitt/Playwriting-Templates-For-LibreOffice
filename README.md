@@ -8,6 +8,7 @@ Adds some playwriting styles into Libreoffice.
 
 ## Details
 
+- To use the template open a new document in LibreOffice then click on Styles > Load Styles from Template. Click "From File" and select the template file in this repo.
 - All fonts are in Courier New. Due to licensing of that font it is not included here. 
 - All styles are in their own Inherited Styles section called "Playwriting Stylesheet". If you cannot see this open the styles in Libre Office and close up the Default Paragraph Style.
 
